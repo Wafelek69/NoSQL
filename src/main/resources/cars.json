@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "producer": "Opel",
+    "model": "Astra",
+    "colour": "Blue",
+    "price": 10.0,
+    "automatic": true,
+    "attributes": [
+      "metalic, PETROL"
+    ]
+  },
+  {
+    "id": 2,
+    "producer": "Opel",
+    "model": "Astra",
+    "colour": "Blue",
+    "price": 7.5,
+    "automatic": false,
+    "attributes": [
+      "PETROL"
+    ]
+  },
+  {
+    "id": 3,
+    "producer": "Opel",
+    "model": "Corsa",
+    "colour": "Blue",
+    "price": 5.5,
+    "automatic": false,
+    "attributes": [
+      "GAS"
+    ]
+  },
+  {
+    "id": 4,
+    "producer": "Opel",
+    "model": "Corsa",
+    "colour": "Red",
+    "price": 7.5,
+    "automatic": true,
+    "attributes": [
+      "PETROL"
+    ]
+  },
+  {
+    "id": 5,
+    "producer": "Toyota",
+    "model": "Yaris",
+    "colour": "Red",
+    "price": 8.0,
+    "automatic": true,
+    "attributes": [
+      "PETROL, GPS"
+    ]
+  },
+  {
+    "id": 6,
+    "producer": "Toyota",
+    "model": "Yaris",
+    "colour": "Black",
+    "price": 8.0,
+    "automatic": true,
+    "attributes": [
+      "PETROL, GPS"
+    ]
+  },
+  {
+    "id": 7,
+    "producer": "Toyota",
+    "model": "Yaris",
+    "colour": "Black",
+    "price": 6.0,
+    "automatic": false,
+    "attributes": [
+      "PETROL, GPS"
+    ]
+  },
+  {
+    "id": 8,
+    "producer": "Toyota",
+    "model": "Aygo",
+    "colour": "Green",
+    "price": 5.0,
+    "automatic": false,
+    "attributes": [
+      "PETROL, GPS"
+    ]
+  }
+]
